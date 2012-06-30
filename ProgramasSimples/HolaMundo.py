@@ -1,7 +1,10 @@
-# Nota: Los comentarios no estan acentuados debido 
-# a que Python puede tener problemas con ellos
-# en algunas computadoras. Si quieres que tu codigo
-# funcione en cualquier computadora, no los uses.
+
+## IMPORTANTE #######################################
+# Los comentarios no estan acentuados debido 			  #
+# a que Python puede tener problemas con ellos      #
+# en algunas computadoras. Si quieres que tu codigo #
+# funcione en cualquier computadora, no los uses.   #
+#####################################################
 
 # Definicion del metodo main.
 def main():
