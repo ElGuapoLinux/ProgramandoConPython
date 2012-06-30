@@ -1,7 +1,6 @@
-
 Vísitanos también en [nuestra Github page](http://www.elguapolinux.github.com/ProgramandoConPython)
 
-Programando con Python.
+<h1>Programando con Python.</h1>
 
 Ésta serie de videotutoriales se encuentra en nuestro canal de Youtube [El guapo linux](http://www.youtube.com/ElGuapoLinux). Puedes acceder también al [Playlist específico](https://www.youtube.com/playlist?list=PL512E3F6D4A39B6C0&feature=view_all)
 
