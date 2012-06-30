@@ -1,4 +1,3 @@
-
 ## IMPORTANTE #######################################
 # Los comentarios no estan acentuados debido        #
 # a que Python puede tener problemas con ellos      #
@@ -6,13 +5,15 @@
 # funcione en cualquier computadora, no los uses.   #
 #####################################################
 
-# Definicion del metodo main.
+#Recuerda que en Python, no usamos llaves para agrupar
+#un bloque de codigo, se utiliza la identacion.
+# Definicion del metodo main:
 def main():
  	print "Hola, mundo" 
 
 # Este bloque de codigo ira al pie de cualquier
 # programa escrito en python Se utiliza para
-# llamar el metodo main e iniciar el programa.
+# llamar el metodo main e iniciar el programa:
 
 if __name__ == '__main__':
   main()
