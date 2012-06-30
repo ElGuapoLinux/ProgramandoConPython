@@ -1,4 +1,4 @@
-Vísitanos también en [nuestra Github page](http://www.elguapolinux.github.com/ProgramandoConPython)
+Vísitanos también en [nuestra Github page](http://elguapolinux.github.com/ProgramandoConPython/)
 
 <h1>Programando con Python.</h1>
 
