@@ -5,8 +5,8 @@
 # comentarios cuando programamos en Python.         #
 #####################################################
 
-# Los comentarios de una sola línea se escriben anteponiendo
-# el símbolo del numeral o hash, y escribiendo el comentario después.
+# Los comentarios de una sola linea se escriben anteponiendo
+# el simbolo del numeral o hash, y escribiendo el comentario despues.
 
 """ Tambien puedes agrupar lineas de codigo
 generand bloques completos de comentarios
