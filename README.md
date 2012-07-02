@@ -10,6 +10,7 @@ Los archivos que se encuentran en este repositorio están organizados en dos for
 Todos los que se encuentran en la carpeta "ProgramasSimples" pertenecen al inicio de los tutoriales y contienen programas contenidos en un solo archivo.
 
 Los programas con un grado más alto de dificultad residen en su propia carpeta, es decir, si estás buscando los archivos pertenecientes al tutorial "Manejo de archivos" encontrarás el código que necesitas en la carpeta ManejoDeArchivos, además, cada archivo contiene al pie de página un link al videotutorial con el que está relacionado, o al primer video, en caso de tratarse de una serie de videos sobre un mismo tema o aplicación. 
+Además, cada archivo contiene al pie de página un link al videotutorial con el que está relacionado, o al primer video, en caso de tratarse de una serie de videos sobre un mismo tema o aplicación.
 
 ### Contribuciones:
 Recuerda que estámos abiertos a tu feedback, reportes de errores, sugerencias en el código y forks. Así que no dudes en realizar alguna de estas acciones.
