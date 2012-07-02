@@ -35,3 +35,9 @@ comentarios, pero por ser el primer programa
 los considere necesarios.
 
 Amet """
+
+'''
+	Video tutorial relacionado con este codigo (Link del video con el que comienza, si es que son varios): 
+	http://www.youtube.com/watch?v=XJK1HWef7xc
+
+'''
