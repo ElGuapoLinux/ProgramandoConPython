@@ -21,3 +21,7 @@ def main():
 
 if __name__ == '__main__':
 	main()
+	'''
+	Video tutorial relacionado con este codigo (Link del video con el que comienza, si es que son varios): 
+	http://www.youtube.com/watch?v=yz-7V2STCLQ&list=UUkKzXQRBI1xJ4qc4ZkCyGUw&index=1&feature=plcp
+	'''
