@@ -1,8 +1,8 @@
 ## IMPORTANTE #######################################
 # Los comentarios no estan acentuados debido        #
 # a que Python los considera caracteres ilegales    #
-# y por lo tanto no debemos usarlos en nuestros     #
-# comentarios cuando programamos en Python.         #
+# pronto introduciremos las tipos de codificacion   #
+# y entonces podermos acentuarlos                   #
 #####################################################
 
 # Los comentarios de una sola linea se escriben anteponiendo
